@@ -86,27 +86,27 @@ export const experiencesData = [
 ]
 
 export const experiencesDataZn = [
-    // {
-    //     "title": "计算机与信息技术硕士",
-    //     "location": "英国圣安德鲁斯大学(qs前100 英国前3)",
-    //     "description": "获得了计算机与信息技术硕士学位，在人机交互、计算机通信系统和信息安全等领域深入学习。培养了计算思维、以用户为中心的设计和数据可视化方面的强大能力，为在科技驱动的环境中有效应用做好了准备。",
-    //     icon: React.createElement(LuGraduationCap),
-    //     "date": "2023年9月 - 2024年8月"
-    // },
-    // {
-    //     "title": "前端实习生",
-    //     "location": "蔚来汽车（中国武汉）",
-    //     "description": "使用Vue3、TypeScript和百度地图API开发蔚来第三代换电站列表和详情页。在任务向导页面实施基于角色的访问控制，增强系统安全性。在Jira管理的环境中有效协作，利用Jenkins进行部署流程。",
-    //     "icon": React.createElement(FaVuejs),
-    //     "date": "2022年8月 - 2022年12月"
-    // },
-    // {
-    //     "title": "前端开发",
-    //     "location": "武汉大学大数据研究院",
-    //     "description": "使用umi（React框架）和Ant Design Pro开发和维护Finknow，一个金融知识图谱查询和分析平台。利用基于G6的React图分析工具包graphin开发了股权网络穿透图，增强了数据可视化功能。",
-    //     "icon": React.createElement(FaReact),
-    //     "date": "2022年5月 - 2022年7月"
-    // },
+    {
+        "title": "计算机与信息技术硕士",
+        "location": "英国圣安德鲁斯大学(qs前100 英国前3)",
+        "description": "获得了计算机与信息技术硕士学位，在人机交互、计算机通信系统和信息安全等领域深入学习。培养了计算思维、以用户为中心的设计和数据可视化方面的强大能力，为在科技驱动的环境中有效应用做好了准备。",
+        icon: React.createElement(LuGraduationCap),
+        "date": "2023年9月 - 2024年8月"
+    },
+    {
+        "title": "前端实习生",
+        "location": "蔚来汽车（中国武汉）",
+        "description": "使用Vue3、TypeScript和百度地图API开发蔚来第三代换电站列表和详情页。在任务向导页面实施基于角色的访问控制，增强系统安全性。在Jira管理的环境中有效协作，利用Jenkins进行部署流程。",
+        "icon": React.createElement(FaVuejs),
+        "date": "2022年8月 - 2022年12月"
+    },
+    {
+        "title": "前端开发",
+        "location": "武汉大学大数据研究院",
+        "description": "使用umi（React框架）和Ant Design Pro开发和维护Finknow，一个金融知识图谱查询和分析平台。利用基于G6的React图分析工具包graphin开发了股权网络穿透图，增强了数据可视化功能。",
+        "icon": React.createElement(FaReact),
+        "date": "2022年5月 - 2022年7月"
+    },
     {
         "title": "本科在读",
         "location": "河南工业大学",
