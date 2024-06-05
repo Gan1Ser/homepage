@@ -39,7 +39,7 @@ export const headerLanguageMap = {
     About: '关于我',
     Projects: '我的项目',
     Skills: '我的技能',
-    Experiences: '我的经历',
+    // Experiences: '我的经历',
 }
 
 export const experiencesData = [
