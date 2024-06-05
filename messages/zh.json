@@ -7,7 +7,7 @@
     },
     "SectionName": {
         "about": "关于我",
-        "experience": "我的经历",
+        // "experience": "我的经历",
         "projects": "我的项目",
         "skills": "我的技能"
     },
