@@ -109,7 +109,7 @@ export const experiencesDataZn = [
     // }
     {
         "title": "本科在读大学生",
-        "location": "武汉大学",
+        "location": "河南工业大学",
         "description": "以3.81/4.0的GPA毕业，获得数字出版学士学位，掌握了数字媒体和出版技术的基础知识。",
         "icon": React.createElement(LuGraduationCap),
         "date": "2019年9月 - 2023年6月"
