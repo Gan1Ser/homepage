@@ -1,0 +1,17 @@
+{
+    "IntroSection": {
+        "hello_im": "Hi, my name is",
+        "name": "GanSer",
+        "short_intro": "A student who loves games and lives happily.",
+        "download_cv": "Download CV"
+    },
+    "SectionName": {
+        "about": "About me",
+        "experience": "Experience",
+        "projects": "Projects",
+        "skills": "Skills"
+    },
+    "AboutSection": {
+        "desc": "Hello, 🙋‍♂️I am a student from China, now studying in Zhengzhou📚. As an undergraduate at the School of Information Science and Engineering at Henan University of Technology, I studied signals and systems, digital image processing, communication principles, Python and other courses. I am now in my junior year and preparing for the 25 postgraduate entrance examination. You can download my resume via the button above, it still needs to be improved🌐. At the same time, I have a personal independent blog, where I will share more stories about myself and more technical content. I like the game Onmyoji, I am a game veteran for seven years💪. I am also a 2D enthusiast🌸, and I record the dramas I have watched and liked in my blog📺. If you want to know more about me, you can visit my Bilibili channel 📽️ and Github homepage 💾 through the button above, or send me an email 📮1742158140@qq.com."
+    }
+}
