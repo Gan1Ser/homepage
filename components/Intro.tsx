@@ -13,7 +13,7 @@ import { TypeAnimation } from "react-type-animation"
 import { useActiveSectionContext } from "@/context/action-section-context"
 import { useTranslations } from "next-intl"
 import useSound from "use-sound"
-
+import { FaBilibili } from "react-icons/fa6";
 const sourceCodePro = Source_Code_Pro({ subsets: ["latin"], weight: "400" })
 
 export default function Intro() {
@@ -137,7 +137,7 @@ export default function Intro() {
           <BsArrowRight className="opacity-70 group-hover:translate-x-1 transition" />
         </Link> */}
         <a
-          href="/Joy-fullstack.pdf"
+          href="/GanSer.pdf"
           download={true}
           className="group text-sm  px-4 py-2  bg-white sm:text-lg sm:px-7 sm:py-3 flex items-center gap-2 rounded-full outline-none focus:scale-110 hover:scale-110 active:scale-105 transition cursor-pointer borderBlack dark:bg-white/10"
         >
@@ -146,10 +146,10 @@ export default function Intro() {
         </a>
         <a
           className="bg-white p-4 text-gray-700 hover:text-gray-950 flex items-center gap-2 rounded-full focus:scale-[1.15] hover:scale-[1.15] active:scale-105 transition cursor-pointer borderBlack dark:bg-white/10 dark:text-white/60"
-          href="https://www.linkedin.com/in/joy-yujiepeng/"
+          href="https://space.bilibili.com/628891869"
           target="_blank"
         >
-          <BsLinkedin />
+          <FaBilibili />
         </a>
 
         <a
