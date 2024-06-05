@@ -108,7 +108,7 @@ export const experiencesDataZn = [
     //     "date": "2021年9月 - 2024年6月"
     // }
     {
-        "title": "数字出版学士",
+        "title": "本科在读大学生",
         "location": "武汉大学",
         "description": "以3.81/4.0的GPA毕业，获得数字出版学士学位，掌握了数字媒体和出版技术的基础知识。",
         "icon": React.createElement(LuGraduationCap),
