@@ -96,9 +96,9 @@ export default function Intro() {
             >
               <TypeAnimation
                 sequence={[
-                  "Frontend Developer",
+                  "Postgraduate entrance examination dog",
                   1000,
-                  "Full Stack Developer",
+                  "Student Developer",
                   1000,
                 ]}
                 wrapper="span"

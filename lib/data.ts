@@ -43,37 +43,30 @@ export const headerLanguageMap = {
 }
 
 export const experiencesData = [
-    // {
-    //     title: "MSc in Computing and IT",
-    //     location: "University of St Andrews, UK",
-    //     description:
-    //         "Achieved a Master's degree in Computing and IT, acquiring in-depth knowledge in areas such as Human Computer Interaction, Computer Communication Systems, and Information Security. Developed strong capabilities in computational thinking, user-centred design, and data visualisation, preparing for effective application in technology-driven environments",
-    //     icon: React.createElement(LuGraduationCap),
-    //     date: "2023 Sep - 2024 May",
-    // },
-    // {
-    //     title: "Frontend Intern",
-    //     location: React.createElement("span", {},
-    //         React.createElement("a", {
-    //             href: "https://www.nio.com/",
-    //             style: { textDecoration: 'underline' },
-    //             target: "_blank"
-    //         }, "NIO Inc."),
-    //         " Wuhan, China"
-    //     ),
-    //     description:
-    //         "Developed NIO's third-generation station list and detail pages using Vue3, TypeScript, and Baidu Maps API. Implemented role-based access control for the Task Wizard page, enhancing system security. Collaborated effectively within a Jira-managed environment, utilizing Jenkins for deployment processes.",
-    //     icon: React.createElement(FaVuejs),
-    //     date: "2022 Aug - 2022 Dec",
-    // },
-    // {
-    //     title: "Frontend Assistant",
-    //     location: "Wuhan University | Wuhan, China",
-    //     description:
-    //         "Developed and maintained Finknow, a Financial Knowledge Graph Query and Analysis Platform using umi (React framework) and Ant Design Pro. Utilized graphin, a React toolkit for graph analysis based on G6, to develop an Equity Network Penetration Graph, enhancing data visualization capabilities.",
-    //     icon: React.createElement(FaReact),
-    //     date: "2022 May - 2022 July",
-    // },
+    {
+        title: "Graduate school exam loding.....",
+        location: "Henan University of Technology, China",
+        description:
+            "Preparing for the graduate school entrance exam in junior year",
+        icon: React.createElement(LuGraduationCap),
+        date: "2024 Jun - 2025 Dec",
+    },
+    {
+        title: "Graduate school exam loding.....",
+        location: "Henan University of Technology, China",
+        description:
+            "Preparing for the graduate school entrance exam in junior year",
+        icon: React.createElement(LuGraduationCap),
+        date: "2024 Jun - 2025 Dec",
+    },
+    {
+        title: "Graduate school exam loding.....",
+        location: "Henan University of Technology, China",
+        description:
+            "Preparing for the graduate school entrance exam in junior year",
+        icon: React.createElement(LuGraduationCap),
+        date: "2024 Jun - 2025 Dec",
+    },
     {
         title: "Undergraduate College",
         location: "Henan University of Technology, China",
@@ -87,10 +80,24 @@ export const experiencesData = [
 
 export const experiencesDataZn = [
     {
-        "title": "努力考上研究生ing",
-        "location": "奋斗争取考上研究生",
-        "description": "大三备战考研中...",
-        "icon": React.createElement(FaReact),
+        "title": "准备考研中ing...",
+        "location": "河南工业大学",
+        "description": "大三备战考研中",
+        icon: React.createElement(LuGraduationCap),
+        "date": "2024年6月 - 2024年12月"
+    },
+    {
+        "title": "准备考研中ing...",
+        "location": "河南工业大学",
+        "description": "大三备战考研中",
+        icon: React.createElement(LuGraduationCap),
+        "date": "2024年6月 - 2024年12月"
+    },
+    {
+        "title": "准备考研中ing...",
+        "location": "河南工业大学",
+        "description": "大三备战考研中",
+        icon: React.createElement(LuGraduationCap),
         "date": "2024年6月 - 2024年12月"
     },
     {
