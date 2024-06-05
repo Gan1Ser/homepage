@@ -67,14 +67,14 @@ export const experiencesData = [
     //     icon: React.createElement(LuGraduationCap),
     //     date: "2024 Jun - 2025 Dec",
     // },
-    // {
-    //     title: "Undergraduate College",
-    //     location: "Henan University of Technology, China",
-    //     description:
-    //         "Junior undergraduate students are studying at Henan University of Technology.",
-    //     icon: React.createElement(LuGraduationCap),
-    //     date: "2021 Sep - 2024 Jun",
-    // },
+    {
+        title: "Undergraduate College",
+        location: "Henan University of Technology, China",
+        description:
+            "Junior undergraduate students are studying at Henan University of Technology.",
+        icon: React.createElement(LuGraduationCap),
+        date: "2021 Sep - 2024 Jun",
+    },
 
 ]
 
@@ -107,6 +107,13 @@ export const experiencesDataZn = [
     //     "icon": React.createElement(LuGraduationCap),
     //     "date": "2021年9月 - 2024年6月"
     // }
+    {
+        "title": "数字出版学士",
+        "location": "武汉大学",
+        "description": "以3.81/4.0的GPA毕业，获得数字出版学士学位，掌握了数字媒体和出版技术的基础知识。",
+        "icon": React.createElement(LuGraduationCap),
+        "date": "2019年9月 - 2023年6月"
+    }
 ]
 
 
