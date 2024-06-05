@@ -7,7 +7,7 @@
     },
     "SectionName": {
         "about": "About me",
-        // "experience": "Experience",
+        "experience": "Experience",
         "projects": "Projects",
         "skills": "Skills"
     },

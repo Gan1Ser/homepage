@@ -39,74 +39,74 @@ export const headerLanguageMap = {
     About: '关于我',
     Projects: '我的项目',
     Skills: '我的技能',
-    // Experiences: '我的经历',
+    Experiences: '我的经历',
 }
 
 export const experiencesData = [
-    {
-        title: "Graduate school exam loding.....",
-        location: "Henan University of Technology, China",
-        description:
-            "Preparing for the graduate school entrance exam in junior year",
-        icon: React.createElement(LuGraduationCap),
-        date: "2024 Jun - 2025 Dec",
-    },
-    {
-        title: "Graduate school exam loding.....",
-        location: "Henan University of Technology, China",
-        description:
-            "Preparing for the graduate school entrance exam in junior year",
-        icon: React.createElement(LuGraduationCap),
-        date: "2024 Jun - 2025 Dec",
-    },
-    {
-        title: "Graduate school exam loding.....",
-        location: "Henan University of Technology, China",
-        description:
-            "Preparing for the graduate school entrance exam in junior year",
-        icon: React.createElement(LuGraduationCap),
-        date: "2024 Jun - 2025 Dec",
-    },
-    {
-        title: "Undergraduate College",
-        location: "Henan University of Technology, China",
-        description:
-            "Junior undergraduate students are studying at Henan University of Technology.",
-        icon: React.createElement(LuGraduationCap),
-        date: "2021 Sep - 2024 Jun",
-    },
+    // {
+    //     title: "Graduate school exam loding.....",
+    //     location: "Henan University of Technology, China",
+    //     description:
+    //         "Preparing for the graduate school entrance exam in junior year",
+    //     icon: React.createElement(LuGraduationCap),
+    //     date: "2024 Jun - 2025 Dec",
+    // },
+    // {
+    //     title: "Graduate school exam loding.....",
+    //     location: "Henan University of Technology, China",
+    //     description:
+    //         "Preparing for the graduate school entrance exam in junior year",
+    //     icon: React.createElement(LuGraduationCap),
+    //     date: "2024 Jun - 2025 Dec",
+    // },
+    // {
+    //     title: "Graduate school exam loding.....",
+    //     location: "Henan University of Technology, China",
+    //     description:
+    //         "Preparing for the graduate school entrance exam in junior year",
+    //     icon: React.createElement(LuGraduationCap),
+    //     date: "2024 Jun - 2025 Dec",
+    // },
+    // {
+    //     title: "Undergraduate College",
+    //     location: "Henan University of Technology, China",
+    //     description:
+    //         "Junior undergraduate students are studying at Henan University of Technology.",
+    //     icon: React.createElement(LuGraduationCap),
+    //     date: "2021 Sep - 2024 Jun",
+    // },
 
 ]
 
 export const experiencesDataZn = [
-    {
-        "title": "准备考研中ing...",
-        "location": "河南工业大学",
-        "description": "大三备战考研中",
-        icon: React.createElement(LuGraduationCap),
-        "date": "2024年6月 - 2024年12月"
-    },
-    {
-        "title": "准备考研中ing...",
-        "location": "河南工业大学",
-        "description": "大三备战考研中",
-        icon: React.createElement(LuGraduationCap),
-        "date": "2024年6月 - 2024年12月"
-    },
-    {
-        "title": "准备考研中ing...",
-        "location": "河南工业大学",
-        "description": "大三备战考研中",
-        icon: React.createElement(LuGraduationCap),
-        "date": "2024年6月 - 2024年12月"
-    },
-    {
-        "title": "本科在读",
-        "location": "河南工业大学",
-        "description": "大三本科学生就读于河南工业大学",
-        "icon": React.createElement(LuGraduationCap),
-        "date": "2021年9月 - 2024年6月"
-    }
+    // {
+    //     "title": "准备考研中ing...",
+    //     "location": "河南工业大学",
+    //     "description": "大三备战考研中",
+    //     icon: React.createElement(LuGraduationCap),
+    //     "date": "2024年6月 - 2024年12月"
+    // },
+    // {
+    //     "title": "准备考研中ing...",
+    //     "location": "河南工业大学",
+    //     "description": "大三备战考研中",
+    //     icon: React.createElement(LuGraduationCap),
+    //     "date": "2024年6月 - 2024年12月"
+    // },
+    // {
+    //     "title": "准备考研中ing...",
+    //     "location": "河南工业大学",
+    //     "description": "大三备战考研中",
+    //     icon: React.createElement(LuGraduationCap),
+    //     "date": "2024年6月 - 2024年12月"
+    // },
+    // {
+    //     "title": "本科在读",
+    //     "location": "河南工业大学",
+    //     "description": "大三本科学生就读于河南工业大学",
+    //     "icon": React.createElement(LuGraduationCap),
+    //     "date": "2021年9月 - 2024年6月"
+    // }
 ]
 
 
