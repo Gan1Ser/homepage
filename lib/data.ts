@@ -146,8 +146,8 @@ export const projectsData = [
     {
         title: "Memos Planet Quest",
         title_zh: "Memos探索星球",
-        description: "",
-        desc_zh: "Build your own exploration planet based on Memos note-taking software, and connect its API to your personal blog, using Telegram to send instant comments in real time.",
+        description: "Build your own exploration planet based on Memos note-taking software, and connect its API to your personal blog, using Telegram to send instant comments in real time.",
+        desc_zh: "基于Memos笔记软件构建自己的探索星球，并将其API连接到您的个人博客，使用Telegram实时发送即刻说说。",
         tags: ["JavaScript", "HTML", "CSS3"],
         imageUrl: Memos,
         projectUrl: 'https://github.com/Gan1Ser/memos',
